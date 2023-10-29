@@ -9,4 +9,8 @@ class JpashopApplicationTests {
 	void 확인(){
 
 	}
+	@Test
+	void 브랜치확인(){
+
+	}
 }
